@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Registration Management API
 
 ## Project Description
@@ -47,3 +48,6 @@ http://localhost:3000
 All records are stored in an in-memory JavaScript array.
 
 No database is used.
+=======
+# FSD-MT-1
+>>>>>>> 7e8808db40c24087a92e50b135a5ac58c451cf1b
